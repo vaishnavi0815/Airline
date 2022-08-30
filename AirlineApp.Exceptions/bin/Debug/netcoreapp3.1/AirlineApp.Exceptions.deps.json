@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AirlineApp.Exceptions/1.0.0": {
+        "runtime": {
+          "AirlineApp.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirlineApp.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
